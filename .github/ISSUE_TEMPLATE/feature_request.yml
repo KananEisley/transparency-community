@@ -1,0 +1,135 @@
+name: 🚀 Feature Request
+description: Suggest a new feature or enhancement for the Transparency Platform
+title: "[FEATURE] "
+labels: ["enhancement"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for suggesting a feature! Please fill out the sections below to help us understand your request.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Statement
+      description: Describe the problem or need this feature would address
+      placeholder: "As a user, I want to... because..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution
+      description: Describe your proposed solution in detail
+      placeholder: "I would like to see..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: use-cases
+    attributes:
+      label: Use Cases
+      description: List specific use cases for this feature
+      placeholder: |
+        - Use case 1: [Description]
+        - Use case 2: [Description]
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: feature-type
+    attributes:
+      label: Feature Type
+      description: What type of feature is this?
+      options:
+        - label: New API integration
+        - label: User interface improvement
+        - label: Data export/import functionality
+        - label: Search enhancement
+        - label: Security improvement
+        - label: Performance optimization
+        - label: Documentation improvement
+        - label: Other
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority Level
+      description: How important is this feature to you?
+      options:
+        - Low (nice to have)
+        - Medium (would improve workflow)
+        - High (significantly impacts usability)
+        - Critical (blocks current functionality)
+    validations:
+      required: true
+
+  - type: dropdown
+    id: complexity
+    attributes:
+      label: Estimated Complexity
+      description: How complex do you think this feature would be to implement?
+      options:
+        - Low (minor change)
+        - Medium (moderate development effort)
+        - High (significant development effort)
+        - Unknown
+
+  - type: textarea
+    id: api-details
+    attributes:
+      label: API Integration Details (if applicable)
+      description: If this is a new API integration, provide details
+      placeholder: |
+        - API Documentation URL:
+        - Requires API key: Yes/No
+        - Rate limits:
+        - Data format:
+        - Key endpoints:
+
+  - type: textarea
+    id: benefits
+    attributes:
+      label: Benefits
+      description: Who would benefit from this feature and how?
+      placeholder: |
+        - Target users:
+        - Expected impact:
+        - Alignment with transparency goals:
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered
+      description: Have you considered any alternative solutions?
+      placeholder: "I also considered..."
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Add any other context, screenshots, mockups, or examples
+      placeholder: "Additional information..."
+
+  - type: checkboxes
+    id: breaking-changes
+    attributes:
+      label: Breaking Changes
+      description: Would this feature require breaking changes?
+      options:
+        - label: This feature would require breaking changes to existing functionality
+        - label: This feature is backward compatible
+
+  - type: checkboxes
+    id: contribution
+    attributes:
+      label: Contribution
+      description: Are you willing to contribute to this feature?
+      options:
+        - label: I would like to work on this feature
+        - label: I can help with testing
+        - label: I can help with documentation
+        - label: I can provide domain expertise 

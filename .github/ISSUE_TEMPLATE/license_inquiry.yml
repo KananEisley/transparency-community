@@ -1,0 +1,133 @@
+name: 💼 License Inquiry
+description: Questions about premium features and commercial licensing
+title: "[LICENSE] "
+labels: ["license", "business"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for your interest in the Transparency Platform! Please fill out this form for licensing inquiries.
+
+  - type: dropdown
+    id: inquiry-type
+    attributes:
+      label: Inquiry Type
+      description: What type of licensing inquiry is this?
+      options:
+        - Premium feature access
+        - Enterprise licensing
+        - Academic/Non-profit licensing
+        - API rate limit increase
+        - Custom integration
+        - Reseller partnership
+        - Volume licensing
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: organization-type
+    attributes:
+      label: Organization Type
+      description: What type of organization are you?
+      options:
+        - Individual researcher
+        - Academic institution
+        - Non-profit organization
+        - Government agency
+        - News organization
+        - Private company
+        - Consulting firm
+        - Law firm
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: use-case
+    attributes:
+      label: Use Case Description
+      description: How do you plan to use the Transparency Platform?
+      placeholder: "We need to track campaign contributions for investigative reporting..."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: premium-features
+    attributes:
+      label: Premium Features of Interest
+      description: Which premium features are you interested in?
+      options:
+        - label: Bulk data export (CSV, JSON, Excel)
+        - label: Advanced analytics and visualizations
+        - label: Higher API rate limits
+        - label: Priority customer support
+        - label: Custom API integrations
+        - label: Multi-user team accounts
+        - label: SSO integration
+        - label: White-label/custom branding
+        - label: Custom reporting solutions
+
+  - type: input
+    id: user-count
+    attributes:
+      label: Expected Number of Users
+      description: How many people would use the platform?
+      placeholder: "e.g., 5-10 researchers"
+
+  - type: input
+    id: data-volume
+    attributes:
+      label: Expected Data Volume
+      description: Approximately how much data do you need to access?
+      placeholder: "e.g., 10,000 records per month"
+
+  - type: textarea
+    id: timeline
+    attributes:
+      label: Timeline
+      description: When do you need access and for how long?
+      placeholder: "We're hoping to start by March 2024 for a 6-month project..."
+
+  - type: input
+    id: budget-range
+    attributes:
+      label: Budget Range (Optional)
+      description: What's your approximate budget range?
+      placeholder: "e.g., $1,000-5,000 annually"
+
+  - type: input
+    id: contact-email
+    attributes:
+      label: Contact Email
+      description: Best email for follow-up
+      placeholder: "your.email@organization.com"
+    validations:
+      required: true
+
+  - type: input
+    id: phone
+    attributes:
+      label: Phone Number (Optional)
+      description: Phone number for urgent follow-up
+      placeholder: "+1 (555) 123-4567"
+
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Additional Information
+      description: Any other relevant details
+      placeholder: "Specific compliance requirements, integration needs, etc."
+
+  - type: checkboxes
+    id: contact-preferences
+    attributes:
+      label: Contact Preferences
+      description: How would you prefer to be contacted?
+      options:
+        - label: Email follow-up
+        - label: Phone call to discuss requirements
+        - label: Schedule a demo session
+        - label: Receive pricing information 

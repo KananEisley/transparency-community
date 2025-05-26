@@ -1,0 +1,194 @@
+name: 🔗 API Integration Request
+description: Request integration of a new government API
+title: "[API] "
+labels: ["enhancement", "api-integration"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for suggesting a new API integration! Government transparency APIs help make public data more accessible.
+
+  - type: input
+    id: api-name
+    attributes:
+      label: API Name
+      description: What is the name of the API?
+      placeholder: "e.g., Congress.gov API, USASpending.gov API"
+    validations:
+      required: true
+
+  - type: input
+    id: api-url
+    attributes:
+      label: API Documentation URL
+      description: Link to the official API documentation
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: data-description
+    attributes:
+      label: Data Description
+      description: What type of government data does this API provide?
+      placeholder: "This API provides access to..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: transparency-value
+    attributes:
+      label: Transparency Value
+      description: How does this data contribute to government transparency?
+      placeholder: "This data helps citizens understand..."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: api-requirements
+    attributes:
+      label: API Requirements
+      description: What are the requirements for using this API?
+      options:
+        - label: Requires API key (free)
+        - label: Requires API key (paid)
+        - label: No API key required
+        - label: Requires registration
+        - label: Has usage limits/quotas
+        - label: Has rate limiting
+
+  - type: textarea
+    id: rate-limits
+    attributes:
+      label: Rate Limits & Quotas
+      description: What are the rate limits or usage quotas?
+      placeholder: "e.g., 1000 requests per hour, 10,000 requests per month"
+
+  - type: dropdown
+    id: data-format
+    attributes:
+      label: Data Format
+      description: What format does the API return data in?
+      options:
+        - JSON
+        - XML
+        - CSV
+        - Multiple formats
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: key-endpoints
+    attributes:
+      label: Key Endpoints
+      description: What are the most important endpoints to implement?
+      placeholder: |
+        - /search/bills - Search legislation
+        - /members - Get member information
+        - /votes - Get voting records
+    validations:
+      required: true
+
+  - type: textarea
+    id: search-capabilities
+    attributes:
+      label: Search Capabilities
+      description: What search parameters and filters are available?
+      placeholder: |
+        - Search by name, date range, state
+        - Filter by party, committee, bill type
+        - Sort by relevance, date, amount
+
+  - type: textarea
+    id: use-cases
+    attributes:
+      label: Use Cases
+      description: How would users benefit from this API integration?
+      placeholder: |
+        - Track voting records of representatives
+        - Research government spending patterns
+        - Monitor legislative activity
+    validations:
+      required: true
+
+  - type: textarea
+    id: example-queries
+    attributes:
+      label: Example Queries
+      description: Provide examples of useful searches users might perform
+      placeholder: |
+        - "Find all votes by Senator Smith in 2023"
+        - "Search contracts awarded to Company XYZ"
+        - "List bills related to healthcare"
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority Level
+      description: How important is this API integration?
+      options:
+        - High (fills major transparency gap)
+        - Medium (valuable addition)
+        - Low (nice to have)
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: data-quality
+    attributes:
+      label: Data Quality
+      description: What do you know about the data quality?
+      options:
+        - label: Data is regularly updated
+        - label: Data is comprehensive
+        - label: Data has good coverage
+        - label: API is stable and reliable
+        - label: Good documentation available
+        - label: Active developer community
+
+  - type: textarea
+    id: similar-tools
+    attributes:
+      label: Similar Tools
+      description: Are there other tools that use this API?
+      placeholder: "Tools like X and Y already integrate with this API..."
+
+  - type: textarea
+    id: challenges
+    attributes:
+      label: Potential Challenges
+      description: Are there any known challenges with this API?
+      placeholder: |
+        - Complex authentication
+        - Large data volumes
+        - Inconsistent data formats
+        - Limited documentation
+
+  - type: input
+    id: contact-info
+    attributes:
+      label: API Contact Information
+      description: Is there contact information for API support?
+      placeholder: "developer@agency.gov or support forum URL"
+
+  - type: checkboxes
+    id: contribution
+    attributes:
+      label: Contribution
+      description: How can you help with this integration?
+      options:
+        - label: I can help with development
+        - label: I can help with testing
+        - label: I can provide domain expertise
+        - label: I can help with documentation
+        - label: I have contacts at the agency
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Any other relevant information
+      placeholder: "Additional details, links, or context..." 
