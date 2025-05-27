@@ -1,18 +1,18 @@
-# Transparency Platform License Terms
+# Transparency License Terms
 
 **Version 1.0 - Effective Date: [Date]**
 
 ## Overview
 
-The Transparency Platform is proprietary software distributed under a freemium model. This license governs your use of the software and defines the terms for both free and premium features.
+Transparency is proprietary software distributed under a freemium model. This license governs your use of the software and defines the terms for both free and premium features.
 
 ## Definitions
 
-- **"Software"** refers to the Transparency Platform application, including all components, documentation, and updates
+- **"Software"** refers to the Transparency application, including all components, documentation, and updates
 - **"Free Version"** refers to the basic functionality available without payment
 - **"Premium Features"** refers to advanced functionality requiring a paid license
 - **"You"** refers to the individual or organization using the Software
-- **"We"** refers to the Transparency Platform development team
+- **"We"** refers to the Transparency development team
 
 ## Free Version License
 
@@ -93,7 +93,7 @@ Premium features require a paid license for:
 ### Your Rights
 - You retain ownership of any data you create or analyze using the Software
 - You may publish research and analysis based on data accessed through the Software
-- Attribution to the Transparency Platform is appreciated but not required
+- Attribution to Transparency is appreciated but not required
 
 ## Support and Updates
 
@@ -153,6 +153,6 @@ This license is governed by the laws of [Jurisdiction] without regard to conflic
 
 ---
 
-**© 2024 Transparency Platform. All rights reserved.**
+**© 2024 Transparency. All rights reserved.**
 
 *This license is effective as of the date you first use the Software. By using the Software, you agree to be bound by these terms.* 

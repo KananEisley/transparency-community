@@ -1,6 +1,6 @@
-# Transparency Platform Community
+# Transparency Community
 
-Welcome to the official community repository for the **Transparency Platform** - a powerful desktop application for accessing and analyzing government data sources including Federal Election Commission (FEC) records, with plans for additional APIs.
+Welcome to the official community repository for **Transparency** - a powerful desktop application for accessing and analyzing government data sources including Federal Election Commission (FEC) records, with plans for additional APIs.
 
 ## 🌟 About This Repository
 
@@ -20,7 +20,7 @@ This repository serves as the central hub for:
 **macOS Users:**
 - Download the latest `.dmg` installer from our [releases page](https://github.com/KananEisley/transparency-community/releases)
 - Double-click to mount and drag to Applications folder
-- Launch "Transparency Platform" from Applications
+- Launch "Transparency" from Applications
 
 **Windows/Linux Users:**
 - Windows and Linux builds coming soon!
@@ -32,8 +32,6 @@ This repository serves as the central hub for:
 3. **Enter your API key** when prompted:
    - For FEC: Get your free API key at [api.open.fec.gov/developers](https://api.open.fec.gov/developers)
 4. **Start exploring** government data!
-
-## 📋 Current Features
 
 ## 🗺️ Roadmap
 
@@ -70,7 +68,7 @@ We welcome community contributions! See our [Contributing Guide](CONTRIBUTING.md
 
 ## 📄 License
 
-The Transparency Platform is proprietary software with a freemium model:
+Transparency is proprietary software with a freemium model:
 - **Free Version**: Available for personal and non-commercial use
 - **Premium Features**: Require a paid license
 
@@ -80,4 +78,4 @@ See our [License Terms](LICENSE.md) for full details.
 
 **Built with ❤️ for transparency and accountability in government**
 
-*The Transparency Platform is not affiliated with any government agency. We are an independent project dedicated to making government data more accessible to researchers, journalists, and citizens.* 
+*Transparency is not affiliated with any government agency. We are an independent project dedicated to making government data more accessible to researchers, journalists, and citizens.* 

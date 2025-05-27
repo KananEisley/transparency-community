@@ -1,6 +1,6 @@
 # Scripts Directory
 
-This directory contains utility scripts for managing the Transparency Platform development process.
+This directory contains utility scripts for managing the Transparency development process.
 
 ## Feature Management Script
 

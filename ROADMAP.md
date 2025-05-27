@@ -1,6 +1,6 @@
-# Transparency Platform Roadmap
+# Transparency Roadmap
 
-This roadmap outlines the planned development direction for the Transparency Platform. It helps prioritize feature requests and provides visibility into upcoming releases.
+This roadmap outlines the planned development direction for Transparency. It helps prioritize feature requests and provides visibility into upcoming releases.
 
 ## Current Version: v2.1.0
 

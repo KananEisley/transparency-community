@@ -60,7 +60,7 @@ jobs:
         with:
           script: |
             const issue = context.payload.issue;
-            const comment = `Thank you for your interest in the Transparency Platform! 🎉
+            const comment = `Thank you for your interest in Transparency! 🎉
             
             We've received your licensing inquiry and will review it within 1-2 business days. 
             
@@ -72,7 +72,7 @@ jobs:
             For urgent inquiries, you can also reach out directly via email.
             
             Best regards,
-            The Transparency Platform Team`;
+                          The Transparency Team`;
             
             github.rest.issues.createComment({
               owner: context.repo.owner,

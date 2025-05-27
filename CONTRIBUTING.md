@@ -1,6 +1,6 @@
-# Contributing to Transparency Platform
+# Contributing to Transparency
 
-Thank you for your interest in contributing to the Transparency Platform! This guide will help you understand how to contribute effectively.
+Thank you for your interest in contributing to Transparency! This guide will help you understand how to contribute effectively.
 
 ## Table of Contents
 
@@ -422,4 +422,4 @@ We use Semantic Versioning (SemVer):
 6. Create GitHub release
 7. Update documentation
 
-Thank you for contributing to the Transparency Platform! Your contributions help make government data more accessible to everyone. 
+Thank you for contributing to Transparency! Your contributions help make government data more accessible to everyone. 

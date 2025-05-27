@@ -1,10 +1,10 @@
 # Community Guidelines
 
-Welcome to the Transparency Platform community! These guidelines help ensure our community remains welcoming, productive, and focused on our mission of making government data more accessible.
+Welcome to the Transparency community! These guidelines help ensure our community remains welcoming, productive, and focused on our mission of making government data more accessible.
 
 ## Our Mission
 
-The Transparency Platform exists to democratize access to government data, empowering researchers, journalists, activists, and citizens to hold their governments accountable through better access to public information.
+Transparency exists to democratize access to government data, empowering researchers, journalists, activists, and citizens to hold their governments accountable through better access to public information.
 
 ## Community Values
 
@@ -169,6 +169,6 @@ For questions about these guidelines or to report violations:
 
 ---
 
-**Thank you for being part of the Transparency Platform community!**
+**Thank you for being part of the Transparency community!**
 
 *Together, we're making government data more accessible and democracy more transparent.* 
