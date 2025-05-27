@@ -163,7 +163,7 @@ These guidelines may be updated periodically to reflect community growth and cha
 ## Contact
 
 For questions about these guidelines or to report violations:
-- **General questions**: [Community discussions](https://github.com/transparency-platform/transparency-community/discussions)
+- **General questions**: [Community discussions](https://github.com/KananEisley/transparency-community/discussions)
 - **Guideline violations**: Use GitHub's reporting features
 - **Private matters**: Contact repository maintainers directly
 

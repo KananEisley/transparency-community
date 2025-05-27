@@ -18,20 +18,20 @@ This repository serves as the central hub for:
 ### Download the Application
 
 **macOS Users:**
-- Download the latest `.dmg` installer from our [releases page](https://github.com/transparency-platform/transparency/releases)
+- Download the latest `.dmg` installer from our [releases page](https://github.com/KananEisley/transparency-community/releases)
 - Double-click to mount and drag to Applications folder
 - Launch "Transparency Platform" from Applications
 
 **Windows/Linux Users:**
 - Windows and Linux builds coming soon!
-- For now, you can request early access via a [license inquiry](https://github.com/transparency-platform/transparency-community/issues/new?template=license_inquiry.yml)
+- For now, you can request early access via a [license inquiry](https://github.com/KananEisley/transparency-community/issues/new?template=license_inquiry.yml)
 
 ### First Time Setup
 
 1. **Launch the application**
 2. **Select a data source** (currently FEC is available)
 3. **Enter your API key** when prompted:
-   - For FEC: Get your free API key at [api.open.fec.gov/developer](https://api.open.fec.gov/developer)
+   - For FEC: Get your free API key at [api.open.fec.gov/developers](https://api.open.fec.gov/developers)
 4. **Start exploring** government data!
 
 ## 📋 Current Features
@@ -74,10 +74,10 @@ This repository serves as the central hub for:
 ## 💬 Community
 
 ### Getting Help
-- 🐛 **Bug Reports**: [Create an issue](https://github.com/transparency-platform/transparency-community/issues/new?template=bug_report.yml)
-- 💡 **Feature Requests**: [Suggest a feature](https://github.com/transparency-platform/transparency-community/issues/new?template=feature_request.yml)
-- 💼 **Premium Features**: [License inquiry](https://github.com/transparency-platform/transparency-community/issues/new?template=license_inquiry.yml)
-- 💬 **General Discussion**: [Community discussions](https://github.com/transparency-platform/transparency-community/discussions)
+- 🐛 **Bug Reports**: [Create an issue](https://github.com/KananEisley/transparency-community/issues/new?template=bug_report.yml)
+- 💡 **Feature Requests**: [Suggest a feature](https://github.com/KananEisley/transparency-community/issues/new?template=feature_request.yml)
+- 💼 **Premium Features**: [License inquiry](https://github.com/KananEisley/transparency-community/issues/new?template=license_inquiry.yml)
+- 💬 **General Discussion**: [Community discussions](https://github.com/KananEisley/transparency-community/discussions)
 
 ### Contributing
 We welcome community contributions! See our [Contributing Guide](CONTRIBUTING.md) for details on:
@@ -106,7 +106,7 @@ The Transparency Platform offers premium features for organizations and power us
 - **Bulk data access** for investigative reporting
 - **Custom reporting tools** and dashboards
 
-[Request Pricing →](https://github.com/transparency-platform/transparency-community/issues/new?template=license_inquiry.yml)
+[Request Pricing →](https://github.com/KananEisley/transparency-community/issues/new?template=license_inquiry.yml)
 
 ## 🔒 Security & Privacy
 
@@ -117,8 +117,8 @@ The Transparency Platform offers premium features for organizations and power us
 
 ## 📞 Contact
 
-- **General Inquiries**: [Create a discussion](https://github.com/transparency-platform/transparency-community/discussions)
-- **Business Inquiries**: [License inquiry form](https://github.com/transparency-platform/transparency-community/issues/new?template=license_inquiry.yml)
+- **General Inquiries**: [Create a discussion](https://github.com/KananEisley/transparency-community/discussions)
+- **Business Inquiries**: [License inquiry form](https://github.com/KananEisley/transparency-community/issues/new?template=license_inquiry.yml)
 - **Security Issues**: Please report privately via email
 - **Press Inquiries**: Contact us for media kits and interviews
 

@@ -143,8 +143,8 @@ We may update these license terms from time to time. Continued use of the Softwa
 ## Contact Information
 
 For licensing questions or to purchase premium features:
-- **License Inquiries**: [Create an issue](https://github.com/transparency-platform/transparency-community/issues/new?template=license_inquiry.yml)
-- **Business Contact**: [Community discussions](https://github.com/transparency-platform/transparency-community/discussions)
+- **License Inquiries**: [Create an issue](https://github.com/KananEisley/transparency-community/issues/new?template=license_inquiry.yml)
+- **Business Contact**: [Community discussions](https://github.com/KananEisley/transparency-community/discussions)
 - **Legal Questions**: Contact us through official channels
 
 ## Governing Law
