@@ -24,7 +24,6 @@ This repository serves as the central hub for:
 
 **Windows/Linux Users:**
 - Windows and Linux builds coming soon!
-- For now, you can request early access via a [license inquiry](https://github.com/KananEisley/transparency-community/issues/new?template=license_inquiry.yml)
 
 ### First Time Setup
 
@@ -36,23 +35,6 @@ This repository serves as the central hub for:
 
 ## 📋 Current Features
 
-### Free Features
-- ✅ **FEC Data Access**: Search contributions, candidates, and committees
-- ✅ **Modern GUI**: Hacker-themed terminal interface with autocomplete
-- ✅ **Secure Storage**: Encrypted API key storage
-- ✅ **Real-time Search**: Live data from government APIs
-- ✅ **Cross-platform**: macOS support (Windows/Linux coming soon)
-
-### Premium Features 🔒
-- 📊 **Bulk Data Export**: CSV, JSON, Excel formats
-- 📈 **Advanced Analytics**: Charts, graphs, and visualizations  
-- ⚡ **Higher Rate Limits**: Faster data access
-- 🎯 **Priority Support**: Direct access to our team
-- 🔌 **Custom Integrations**: API access for your applications
-- 👥 **Team Accounts**: Multi-user access and collaboration
-- 🔐 **SSO Integration**: Enterprise authentication
-- 🎨 **White-label Options**: Custom branding for organizations
-
 ## 🗺️ Roadmap
 
 ### Planned Data Sources
@@ -61,13 +43,6 @@ This repository serves as the central hub for:
 - **Government Contracts**: Federal spending and procurement
 - **Court Records**: Federal case information
 - **Regulatory Data**: Federal Register and rulemaking
-
-### Upcoming Features
-- **Advanced Search Filters**: Complex queries across multiple fields
-- **Data Visualization**: Interactive charts and graphs
-- **Automated Reports**: Scheduled data exports and summaries
-- **API Access**: Programmatic access for developers
-- **Mobile App**: iOS and Android applications
 
 [View Full Roadmap →](ROADMAP.md)
 
@@ -86,48 +61,18 @@ We welcome community contributions! See our [Contributing Guide](CONTRIBUTING.md
 - Contributing to documentation
 - Community guidelines and code of conduct
 
-## 🏢 Premium Licensing
-
-The Transparency Platform offers premium features for organizations and power users:
-
-### Academic & Non-Profit
-- **50% discount** on all premium features
-- Special pricing for educational institutions
-- Research collaboration opportunities
-
-### Enterprise
-- **Volume licensing** for large organizations
-- **Custom integrations** and API access
-- **Priority support** and training
-- **SSO and security** compliance
-
-### News Organizations
-- **Special media pricing** for journalists and newsrooms
-- **Bulk data access** for investigative reporting
-- **Custom reporting tools** and dashboards
-
-[Request Pricing →](https://github.com/KananEisley/transparency-community/issues/new?template=license_inquiry.yml)
 
 ## 🔒 Security & Privacy
 
 - **Local Data Storage**: All data stays on your machine
 - **Encrypted Credentials**: API keys secured with industry-standard encryption
-- **No Tracking**: We don't collect or store your search data
-- **Open Source Components**: Core utilities available for security review
-
-## 📞 Contact
-
-- **General Inquiries**: [Create a discussion](https://github.com/KananEisley/transparency-community/discussions)
-- **Business Inquiries**: [License inquiry form](https://github.com/KananEisley/transparency-community/issues/new?template=license_inquiry.yml)
-- **Security Issues**: Please report privately via email
-- **Press Inquiries**: Contact us for media kits and interviews
+- **No Tracking**: We don't collect or store your search data!
 
 ## 📄 License
 
 The Transparency Platform is proprietary software with a freemium model:
 - **Free Version**: Available for personal and non-commercial use
 - **Premium Features**: Require a paid license
-- **Enterprise**: Custom licensing available
 
 See our [License Terms](LICENSE.md) for full details.
 
