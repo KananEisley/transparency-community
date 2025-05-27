@@ -33,16 +33,6 @@ This repository serves as the central hub for:
    - For FEC: Get your free API key at [api.open.fec.gov/developers](https://api.open.fec.gov/developers)
 4. **Start exploring** government data!
 
-## 🗺️ Roadmap
-
-### Planned Data Sources
-- **Congressional API**: Bills, votes, member information
-- **Lobbying Records**: Disclosure reports and registrations
-- **Government Contracts**: Federal spending and procurement
-- **Court Records**: Federal case information
-- **Regulatory Data**: Federal Register and rulemaking
-
-[View Full Roadmap →](ROADMAP.md)
 
 ## 💬 Community
 
