@@ -136,7 +136,7 @@ Add export functionality for CSV, JSON, and PDF formats.
 ## Bug Report: [Brief Description]
 
 ### Environment
-- Platform version: [e.g., v2.1.0]
+- Platform version: [e.g., v0.0.7]
 - Operating system: [e.g., macOS 14.0]
 - Python version: [e.g., 3.11.0]
 
